@@ -1,4 +1,5 @@
 #!/bin/python3
+#written with Eric Liu
 def step(point1, point2):
     del_x = point2[0] - point1[0]
     del_y = point2[1] - point1[1]
